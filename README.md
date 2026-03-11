@@ -72,9 +72,9 @@ Currently focused on strengthening my knowledge in **full-stack web development,
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: (Add your LinkedIn)
-* Email: (Add your email)
+* GitHub: https://github.com/guruprasad06
+* LinkedIn: (https://www.linkedin.com/in/m-guru-prasad-b2a70337b)
+* Email: (mguruprasad2006@gmail.com)
 
 ---
 
